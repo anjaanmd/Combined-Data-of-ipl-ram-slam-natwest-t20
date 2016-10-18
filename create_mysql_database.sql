@@ -1,5 +1,5 @@
-CREATE DATABASE ipl_2015;
-use ipl_2015;
+CREATE DATABASE combined_t20;
+use combined_t20;
 CREATE TABLE match_details(
 	match_id INT(8) NOT NULL KEY,
     team1 VARCHAR(30) NOT NULL,
