@@ -5,12 +5,12 @@
 
 Using Beautiful soup and other python packages, generated the following csv files for the respective tournaments
 
-- first_innings_batting.match_id.csv 
-- first_innings_bowling.match_id.csv 
-- match_details.match_id.csv 
-- score_details.match_id.csv 
-- second_innings_batting.match_id.csv 
-- second_innings_bowling.match_id.csv
+- tournament_name.first_innings_batting.csv 
+- tournament_name.first_innings_bowling.csv 
+- tournament_name.match_details.csv 
+- tournament_name.score_details.csv 
+- tournament_name.second_innings_batting.csv 
+- tournament_name.second_innings_bowling.csv
 
 These files are generated using scraper.py(which is available in an another repo of mine in this github account) for every match.
 
